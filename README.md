@@ -44,7 +44,7 @@ To install the Save Links Chrome Extension, follow these steps:
   
 ## Demo
 
-[View Demo](https://parin-parikh.github.io/Music-player/) 
+[View Demo](https://parin-parikh.github.io/Save-Links/) 
 
 ## Contributing
 
