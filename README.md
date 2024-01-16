@@ -41,6 +41,10 @@ To install the Save Links Chrome Extension, follow these steps:
 
 6. **Open Saved Links**:
    - Click on any saved link to open it in a new browser tab.
+  
+## Demo
+
+[View Demo](https://parin-parikh.github.io/Music-player/) 
 
 ## Contributing
 
